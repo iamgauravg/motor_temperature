@@ -1,0 +1,8 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "tmp144yffr")(type "KiCad")(uri "C:/Users/320241966/Documents/Gaurav/Projects/ul_TMP144YFFR/KiCADv6/2025-10-15_18-43-35.kicad_sym")(options "")(descr ""))
+  (lib (name "TBL002A-350-03GR-2OR")(type "KiCad")(uri "C:/Users/320241966/Documents/Gaurav/Projects/TBL002A-350-03GR-2OR/TBL002A-350-03GR-2OR.kicad_sym")(options "")(descr ""))
+  (lib (name "L9110S")(type "KiCad")(uri "C:/Users/320241966/Documents/Gaurav/Projects/L9110S/L9110S.kicad_sym")(options "")(descr ""))
+  (lib (name "TMP75AIDR")(type "KiCad")(uri "C:/Users/320241966/Documents/Gaurav/Projects/TMP75AIDR/KiCADv6/2025-12-02_20-21-24.kicad_sym")(options "")(descr ""))
+  (lib (name "1206W4F4701T5E")(type "KiCad")(uri "C:/Users/320241966/Documents/Gaurav/Projects/1206W4F4701T5E/1206W4F4701T5E.kicad_sym")(options "")(descr ""))
+)
