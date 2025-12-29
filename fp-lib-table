@@ -5,4 +5,5 @@
   (lib (name "L9110S")(type "KiCad")(uri "C:/Users/320241966/Documents/Gaurav/Projects/L9110S")(options "")(descr ""))
   (lib (name "TMP75AIDR")(type "KiCad")(uri "C:/Users/320241966/Documents/Gaurav/Projects/TMP75AIDR/KiCADv6/footprints.pretty")(options "")(descr ""))
   (lib (name "1206W4F4701T5E")(type "KiCad")(uri "C:/Users/320241966/Documents/Gaurav/Projects/1206W4F4701T5E")(options "")(descr ""))
+  (lib (name "1206W4F0000T5E")(type "KiCad")(uri "C:/Users/320241966/Documents/Gaurav/Projects/1206W4F0000T5E")(options "")(descr ""))
 )
